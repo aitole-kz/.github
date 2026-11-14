@@ -6,6 +6,7 @@
 - **Справочник API:** [aitole.kz/docs](https://aitole.kz/docs/) · [markdown для ИИ](https://aitole.kz/docs/index.md)
 - **Примеры кода:** [aitole-examples](https://github.com/aitole-kz/aitole-examples) — Node.js, Python, PHP, curl
 - **Как узнать, что клиент оплатил Kaspi:** [уведомления и вебхуки](https://aitole.kz/kaspi-uvedomlenie-ob-oplate/)
+- **Соцсети:** [Instagram](https://www.instagram.com/aitole.kz/) · [Threads](https://www.threads.com/@aitole.kz)
 
 Песочница доступна сразу после регистрации, без подключения Kaspi. 20 оплаченных платежей в месяц бесплатно навсегда.
 
